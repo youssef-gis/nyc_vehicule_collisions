@@ -24,3 +24,8 @@ by location, vehicle type, and contributing factors.
 - `Geopandas`  
 - `Folium`  
 - `Jupyter Notebook`
+
+  ### 📘 View the Notebook
+
+[🔍 Explore the interactive notebook on nbviewer](https://nbviewer.org/github/youssef-gis/nyc_vehicule_collisions/blob/main/nyc_vehicule_collisions.ipynb)
+
